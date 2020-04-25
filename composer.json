@@ -1,5 +1,5 @@
 {
-    "name": "davejamesmiller/laravel-breadcrumbs",
+    "name": "nuranto/laravel-breadcrumbs",
     "description": "A simple Laravel-style way to create breadcrumbs.",
     "keywords": [
         "laravel"
@@ -9,6 +9,10 @@
         {
             "name": "Dave James Miller",
             "email": "dave@davejamesmiller.com"
+        },
+        {
+          "name": "Vincent Enjalbert",
+          "email": "chef@web-cooking.net"
         }
     ],
     "license": "MIT",
